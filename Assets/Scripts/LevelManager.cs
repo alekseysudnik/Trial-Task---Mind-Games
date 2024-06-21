@@ -72,4 +72,10 @@ public class LevelManager: MonoBehaviour
         FillGrid();
     }
 
+    public void OnDisable()
+    {
+        repeatGrid.OnGridUpdated-= RepeatGrid_OnGridUpdated;
+    }
+
+
 }
