@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050d94c68ec75974b8da94178b089f55, type: 3}
+  m_Name: Red Cube
+  m_EditorClassIdentifier: 
+  _itemType: 2
+  _icon: {fileID: 21300000, guid: 0e58eb1d6e24b3541a3897c6baee1dc7, type: 3}
+  _color: {r: 1, g: 0.2113207, b: 0.2113207, a: 1}
+  _prefab: {fileID: 2875308428593232241, guid: bd9aa89aea36095419db7a21883224fc, type: 3}
